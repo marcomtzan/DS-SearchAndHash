@@ -1,0 +1,25 @@
+   Program Collision Report
+   ----------------------------
+   Bucket 1 has a length of 1.
+   Bucket 2 has a length of 3.
+   Bucket 3 has a length of 4.
+   Bucket 4 has a length of 6.
+   Bucket 5 has a length of 3.
+   Bucket 6 has a length of 1.
+   Bucket 7 has a length of 4.
+   Bucket 8 has a length of 2.
+   Bucket 9 has a length of 2.
+   Bucket 10 has a length of 3.
+   Bucket 11 has a length of 3.
+   Bucket 12 has a length of 3.
+   Bucket 13 has a length of 3.
+   Bucket 14 has a length of 3.
+   Bucket 15 has a length of 0.
+   Bucket 16 has a length of 4.
+   Bucket 17 has a length of 2.
+   Bucket 18 has a length of 2.
+   Bucket 19 has a length of 5.
+   Bucket 20 has a length of 4.
+
+   There was a total of 39 collisions within this hashing algorithm.
+   The average length per collision was 2.2941177.

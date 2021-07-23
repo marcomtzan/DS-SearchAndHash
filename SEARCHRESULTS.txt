@@ -1,0 +1,22 @@
+   Search Key          Bucket/Position         Record
+   -------------------------------------------------------
+   KALLTREE S                                  was not found.
+   DAC SW INC               5/2                DAC SW INCSPRING VAL DALLAS TX
+   COMPUADD C               5/3                COMPUADD CTECH BLVD. AUSTIN TX
+   MICROWAY C               3/4                MICROWAY CTEMPOHOUSE LONDON UK
+   TATUNG CO.               2/1                TATUNG CO.EL PR. LONG BEACH CA
+   DYSAN CORP               7/4                DYSAN CORPPAT H SANTA CLARA CA
+   DIGITAL RE               12/3               DIGITAL REGARDEN C MONTEREY CA
+   QUANTBM SW                                  was not found.
+   PROMETHEUS               4/5                PROMETHEUSFREMONT S FREMONT CA
+   EVEREX SYS               17/2               EVEREX SYSMILMONT FREMONT,  CA
+   MICROMART.               13/2               MICROMART.CAMPUS D NORCROSS GE
+   PARADISE S               4/2                PARADISE STAYLOR S BRISBANE CA
+   SPECTRUM S               10/3               SPECTRUM SWOLFE R SUNNYVALE CA
+   MICRODESIG               4/1                MICRODESIGUNVIE WINTER PARK FL
+   MAXELL CO.               11/1               MAXELL CO.OXFORD  MOONACHIE NJ
+   AMDEK COR,               19/5               AMDEK COR.MAINE GROVE VALLY IL
+   TECMAR INT               9/1                TECMAR INTCOCHRAN RD. SOLON OH
+   IBM CORPOR               18/2               IBM CORPORBOCA RATON,  FLORIDA
+   OHCHID COR                                  was not found.
+   FUN  SOFTW                                  was not found.

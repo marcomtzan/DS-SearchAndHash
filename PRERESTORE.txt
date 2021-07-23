@@ -1,0 +1,118 @@
+   Bucket 1:
+   ----------------------------------
+   GENOA SYSTTRIMBLE SAN JOSE, CA
+
+   Bucket 2:
+   ----------------------------------
+   TATUNG CO.EL PR. LONG BEACH CA
+   CORE INTERFEDERA BOCA RATON FL
+   CURITS INCUNIO PETERBOROUGH NH
+
+   Bucket 3:
+   ----------------------------------
+   SIGMA DESIUNIVER A SAN JOSE CA
+   TAXAN CORPCITY OF INDUSTRY, CA
+   ORCHID CORWESTINGHO FREMONT CA
+   MICROWAY CTEMPOHOUSE LONDON UK
+
+   Bucket 4:
+   ----------------------------------
+   MICRODESIGUNVIE WINTER PARK FL
+   PARADISE STAYLOR S BRISBANE CA
+   INTERLUDE.RICHMOND HOUSTON, TX
+   TALLTREE SSNTONIO PALO ALTO CA
+   PROMETHEUSFREMONT S FREMONT CA
+   FUNK SOFTW3RD ST CAMBRIDGE, MA
+
+   Bucket 5:
+   ----------------------------------
+   AST RESEARALTON AV IRVINE   CA
+   DAC SW INCSPRING VAL DALLAS TX
+   COMPUADD CTECH BLVD. AUSTIN TX
+
+   Bucket 6:
+   ----------------------------------
+   MAYNARD ELSEMOR CASSELBERRY FL
+
+   Bucket 7:
+   ----------------------------------
+   SUMMIT TECBABSON WELLESLEY, MA
+   MICROGRAFXGREEN RICHARDSON, TX
+   BUSSIN TOL128 AVE BELLEVUE, WA
+   DYSAN CORPPAT H SANTA CLARA CA
+
+   Bucket 8:
+   ----------------------------------
+   ROSESOFT CUNIVE WAY SEATTLE WA
+   OKIDATA COA MOUNTAIN LAUREL NJ
+
+   Bucket 9:
+   ----------------------------------
+   TECMAR INTCOCHRAN RD. SOLON OH
+   QUANTUM SWSTAFFO OTTAWA CANADA
+
+   Bucket 10:
+   ----------------------------------
+   PRINCETON.EWING S PRINCETON NJ
+   HEWLETT PABERNARD SAN DIEGO CA
+   SPECTRUM SWOLFE R SUNNYVALE CA
+
+   Bucket 11:
+   ----------------------------------
+   MAXELL CO.OXFORD  MOONACHIE NJ
+   SOURCE TELPOBOX 1305 MCLEAN VA
+   QUBIE CORPCALLE S CAMARILLO CA
+
+   Bucket 12:
+   ----------------------------------
+   KAMERMAN LCIRRUS BEAVERTON, OR
+   EPSON AMERBEDA STR TORRANCE CA
+   DIGITAL REGARDEN C MONTEREY CA
+
+   Bucket 13:
+   ----------------------------------
+   HERCULES CNINTH ST BERKELEY CA
+   MICROMART.CAMPUS D NORCROSS GE
+   BORTHER I.THENALA DR IRVINE CA
+
+   Bucket 14:
+   ----------------------------------
+   EXPRESS SYREMING SCHAUMBURG IL
+   IOMEGA CORWESTA SOUTH ROY UTAH
+   BORLAND I.SCOTTS V. DR S.V. CA
+
+   Bucket 15:
+   ----------------------------------
+
+   Bucket 16:
+   ----------------------------------
+   GRAPHIC CO5TH AVE. WALTHAM, MA
+   MICROPRO IBOX 57135 HAYWARD CA
+   PROSOFT COBELLAI HOLLEYWOOD CA
+   HONEYWELL.BAKER COSTA MESA, CA
+
+   Bucket 17:
+   ----------------------------------
+   SSISOFTWARCENTER ST. OREM UTAH
+   EVEREX SYSMILMONT FREMONT,  CA
+
+   Bucket 18:
+   ----------------------------------
+   LOGIQUEST.MONTRE QUEBEC CANADA
+   IBM CORPORBOCA RATON,  FLORIDA
+
+   Bucket 19:
+   ----------------------------------
+   QUADRAM COLOACH AV NORCROSS GE
+   MICROSTUF,H.W. PKWY ROSWELL GE
+   NCR COORPOBOWLING DR DAYTON OH
+   EMERSON COSTAN ST SANTA ANA CA
+   AMDEK COR.MAINE GROVE VALLY IL
+
+   Bucket 20:
+   ----------------------------------
+   VEN-TAL INWALSH SANTA CLARA CA
+   VICTOR CORSCOTTS VALLEY, CALIF
+   INTEL COOR5 ST MOUNTAINVIEW CA
+   CHANNELS IKI ST TORONTO CANADA
+
